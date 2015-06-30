@@ -1,6 +1,6 @@
 # Example Isomorphic Meteor+React app (with Server Side Rendering).
 
-> Try turning off JavaScript, it will still render the intial  state of the app, as expected! [Here's a Chrome plugin to turn JavaScript off.](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)
+> Try turning off JavaScript, it will still render the intial  state of the app, as expected! [Here's a Chrome plugin to turn off JavaScript.](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)
 
 
 ## Demo
@@ -10,7 +10,7 @@ http://jsx-templating.meteor.com
 
 * How fast it loads!
 * It works without any JavaScript!
-* Google and Search engines loves it, easy to index!
+* Google and search engines loves it, ... easy to index!
 * Facebook and Social media can grab it's tags easily!
 * Easily cachable, just setup Varnish or whatever in front of it and serve pages even faster.
 
