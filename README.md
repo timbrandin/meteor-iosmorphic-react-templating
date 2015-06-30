@@ -11,7 +11,7 @@ http://jsx-templating.meteor.com
 * How fast it loads!
 * It works without any JavaScript!
 * Google and search engines loves it, ... easy to index!
-* Facebook and Social media can grab it's tags easily!
+* Facebook and Social media can grab it's social tags, pictures and description easily!
 * Easily cachable, just setup Varnish or whatever in front of it and serve pages even faster.
 
 ## Features
