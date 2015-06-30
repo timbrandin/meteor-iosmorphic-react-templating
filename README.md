@@ -19,7 +19,7 @@ http://jsx-templating.meteor.com
 - [x] [Meteor](http://meteor.com)
 - [x] [React](https://facebook.github.io/react)
 - [x] [JSX Templates (```meteor add timbrandin:jsx-templates```)](https://atmospherejs.com/timbrandin/jsx-templating)
-- [x] [RouteCore]()
+- [x] [RouteCore](https://github.com/mystor/meteor-routecore)
 - [x] Template helpers
 - [x] Template onCreated
 - [x] ReactiveVar (```meteor add reactive-var```)
