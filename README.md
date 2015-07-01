@@ -1,4 +1,4 @@
-# Example Isomorphic Meteor+React app (with Server Side Rendering).
+# Example Isomorphic Meteor+React app (with SSR and RouteCore).
 
 > Try turning off JavaScript, it will still render the intial  state of the app, as expected! [Here's a Chrome plugin to turn off JavaScript.](https://chrome.google.com/webstore/detail/quick-javascript-switcher/geddoclleiomckbhadiaipdggiiccfje)
 
