@@ -6,6 +6,9 @@
 ## Demo
 http://jsx-templating.meteor.com
 
+## More examples (Don't miss!)
+* https://github.com/timbrandin/hello-react-meteor (Example Isomorphic Meteor+React app (with SSR and FlowRouter).
+
 ## Notice
 
 * How fast it loads!
